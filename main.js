@@ -31,5 +31,5 @@ function getInfoByGitHub() {
       userLink.textContent = data.login
     })
 }
-
+// #SemLimites
 getInfoByGitHub()
